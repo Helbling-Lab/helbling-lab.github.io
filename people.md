@@ -76,6 +76,10 @@ subtitle: ZoomLab People
 <div class="col-md-3 text-center">
 	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
 </div>
+		<div class="col-md-3 text-center">
+			<!-- <a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a> -->
+			<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
+		</div>
 
 </div>
 </div>
@@ -120,6 +124,18 @@ subtitle: ZoomLab People
 
 </div>
 </div>
+
+### PostDog
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3 text-center">
+	<a href="#"><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Leo" />BonBon</a>
+</div>
+
+</div>
+</div>
+
 
 ## Alumni
 
