@@ -17,8 +17,8 @@ subtitle: ZoomLab People
 	</div>
 </div>
 
-### Postdoctoral Scholars
-<div class="container-fluid">
+<!-- ### Postdoctoral Scholars -->
+<!-- <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-3 text-center">
 			<a href="">
@@ -30,7 +30,7 @@ subtitle: ZoomLab People
 			<img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="" />Sha Yi</a>
 		</div>
 	</div>
-</div>
+</div> -->
 
 ### PhD Students
 
