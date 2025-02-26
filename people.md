@@ -46,11 +46,9 @@ subtitle: ZoomLab People
 			<a href="https://www.linkedin.com/in/shashwat-1singh/"><img class="img-responsive img-circle" src="/assets/img/headshots/Shashwat.jpg" alt="Shashwat Singh" />Shashwat Singh</a>
 		</div>
 		<div class="col-md-3 text-center">
-			<!-- <a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a> -->
-			<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Guadalupe Bernal" /> Guadalupe Bernal </a>
+			<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a>
 		</div>
 		<div class="col-md-3 text-center">
-			<!-- <a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a> -->
 			<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Fokion.JPG" alt="Fokion Sanoudos-Dramaliotis" /> Fokion Sanoudos-Dramaliotis </a>
 		</div>
 	</div>
@@ -75,13 +73,13 @@ subtitle: ZoomLab People
 </div> -->
 <div class="col-md-3 text-center">
 	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
-</div>
-		<div class="col-md-3 text-center">
-			<!-- <a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a> -->
-			<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
-		</div>
-
-</div>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Kiran.jpg" alt="Kiran Marques" /> Kiran Marques </a>
+	<a href="><img class="img-responsive img-circle" src="/assets/img/headshots/Janice.png" alt="Janice Lee" /> Janice Lee </a>
+	<!-- </div>
+		<div class="col-md-3 text-center"> -->
+		<!-- </div> -->
+	</div>
 </div>
 
 ### Undergraduate students
