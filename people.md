@@ -58,27 +58,17 @@ subtitle: ZoomLab People
 
 <div class="container-fluid">
 <div class="row">
-
-<!-- <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="" />Timothy Mayer</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Apple Zhao" />Yi Zhao</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
-</div> -->
-<div class="col-md-3 text-center">
-	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Kiran.jpg" alt="Kiran Marques" /> Kiran Marques </a>
-	<a href="><img class="img-responsive img-circle" src="/assets/img/headshots/Janice.png" alt="Janice Lee" /> Janice Lee </a>
-	<!-- </div>
-		<div class="col-md-3 text-center"> -->
-		<!-- </div> -->
+	<div class="col-md-3 text-center">
+		<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
+	</div>
+	<div class="col-md-3 text-center">
+		<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
+	</div>
+	<div class="col-md-3 text-center">
+		<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Kiran.jpg" alt="Kiran Marques" /> Kiran Marques </a>
+	</div>
+	<div class="col-md-3 text-center">
+		<a href="><img class="img-responsive img-circle" src="/assets/img/headshots/Janice.png" alt="Janice Lee" /> Janice Lee </a>
 	</div>
 </div>
 
