@@ -127,7 +127,7 @@ subtitle: ZoomLab People
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-3 text-center">
-	<a href="#"><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="BonBon" />BonBon</a>
+	<a href="#"><img class="img-responsive img-circle" src="/assets/img/headshots/BonBon.jpg" alt="BonBon" />BonBon</a>
 </div>
 
 </div>
