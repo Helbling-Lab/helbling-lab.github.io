@@ -57,18 +57,19 @@ subtitle: ZoomLab People
 ### Master's Students
 
 <div class="container-fluid">
-<div class="row">
-	<div class="col-md-3 text-center">
-		<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
-	</div>
-	<div class="col-md-3 text-center">
-		<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
-	</div>
-	<div class="col-md-3 text-center">
-		<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Kiran.jpg" alt="Kiran Marques" /> Kiran Marques </a>
-	</div>
-	<div class="col-md-3 text-center">
-		<a href="><img class="img-responsive img-circle" src="/assets/img/headshots/Janice.png" alt="Janice Lee" /> Janice Lee </a>
+	<div class="row">
+		<div class="col-md-3 text-center">
+			<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Zhuowei Xu" /> Zhuowei Xu </a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Kiran.jpg" alt="Kiran Marques" /> Kiran Marques </a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href="><img class="img-responsive img-circle" src="/assets/img/headshots/Janice.png" alt="Janice Lee" /> Janice Lee </a>
+		</div>
 	</div>
 </div>
 
@@ -81,10 +82,10 @@ subtitle: ZoomLab People
 </div> -->
 <!-- <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Max Kramer</a>
-</div>
+</div> -->
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Isaac Osei</a>
-</div> -->
+</div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tiffany.jpg" alt="" />Tiffany Han</a>
 </div>
