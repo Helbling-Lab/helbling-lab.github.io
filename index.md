@@ -1,23 +1,23 @@
 ---
 layout: home
-title: ZOOM LAB CMU
-subtitle: Compliant Systems for Mechanical Intelligence
-cover-img: "assets/img/ZoomLabGroupPhoto.jpg"
+title: Helbling Lab @ Cornell
+subtitle: Insect-inspired microrobotics
+cover-img: ""
 ---
 
 ## About Us
 
 <p style="text-align: justify;"> 
-    Founded in late 2019, our vision at Zoom Lab is to create robots that can mechanically conform to the environment or objects that they interact with to alleviate the need for high-speed, high-accuracy, and high-precision controllers. We pursue this goal by developing compliant mechanisms for manipulators and robots, focusing on bio-inspiration and unconventional materials, and engaging with the community to increase interest in science and engineering.
+    The Helbling Robotics Lab focuses on designing autonomous insect-scale robotic platforms that can perform sustained, intelligent operation in real-world environments. We focus on holistic design founded in both theory and experiments in which we co-design mechanisms, system architecture, and control with the final environment and task in mind. In the group, this work is divided into two main themes: (1) leveraging cm-scale physics to develop effective locomotion strategies at the insect-scale, and (2) overcoming challenges to design and integrate mm-scale perception, power, and control systems.
 </p>
 
-We are a part of the [Robotics Insitute](https://ri.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). 
+We are a part of the [Electrical and Computer Engineering Department](https://www.ece.cornell.edu/ece) at [Cornell University](https://cornell.edu/). 
 
-If you are looking to join us, [click here]().
+If you are looking to join us, [click here](mailto:efh45@cornell.edu).
 <!-- We are looking to expand our team. If you're interested, read about our [open positions]()!  -->
 To get more information about research and facilities, [click here](/research).
 
-Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
+Feel free to stop by our lab in Bard 347 to see our amazing robots in action!
 
 ---
 #### News
