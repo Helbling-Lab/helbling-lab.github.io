@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Researchers"
-subtitle: Helbling Lab Researchers
+subtitle: Helbling Lab's Researchers
 ---
 
 ## PI

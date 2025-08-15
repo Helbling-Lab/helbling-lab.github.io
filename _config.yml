@@ -27,14 +27,10 @@ navbar-links:
     # - Robots: "robots"
   Research:
     - Current Research: "research"
-    - Publications: "publications"
   # Courses:
   #   - Undergrad: "16-235" 
   #   - Graduate: "16-778"
   # TODO: REMOVE THIS LINK
-  Resources:
-    - WIKIs: "wikis"
-    # - Github: "https://github.com/ZoomLabCMU"
 
 ################
 # --- Logo --- #
