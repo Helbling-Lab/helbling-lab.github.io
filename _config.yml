@@ -22,15 +22,9 @@ author: Elizabeth Farrell Helbling
 ###############################################
 
 navbar-links:
-  Team:
-    - People: "people"
-    # - Robots: "robots"
-  Research:
-    - Current Research: "research"
-  # Courses:
-  #   - Undergrad: "16-235" 
-  #   - Graduate: "16-778"
-  # TODO: REMOVE THIS LINK
+  Team: "people"
+  Research: "research"
+  # Courses: "16-235"
 
 ################
 # --- Logo --- #

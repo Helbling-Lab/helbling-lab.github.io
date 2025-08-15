@@ -7,7 +7,7 @@ subtitle: Helbling Lab's Researchers
 ## PI
 <div style="display:flex;flex-wrap:wrap;gap:16px;">
   <div style="width:180px;text-align:center;">
-    <img src="{{ '/assets/img/headshots/efh.jpg' | relative_url }}" alt="Elizabeth Farrell Helbling" style="width:100%;height:auto;border-radius:6px;">
+    <img src="{{ '/assets/img/headshots/efh.png' | relative_url }}" alt="Elizabeth Farrell Helbling" style="width:100%;height:auto;border-radius:6px;">
     <div><strong>Elizabeth Farrell Helbling</strong><br><span>Principal Investigator</span></div>
   </div>
 </div>
