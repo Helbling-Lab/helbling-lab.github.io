@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-<!-- Optional: Publications button -->
-<div style="margin: 0 0 24px 0;">
-  <a href="https://scholar.google.com/citations?user=REPLACE_WITH_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener"
+<!-- Publications button -->
+<div style="text-align:center; margin: 0 0 24px 0;">
+  <a href="https://scholar.google.com/citations?user=Pwd7hJYAAAAJ&hl=en" target="_blank" rel="noopener"
      style="display:inline-block;padding:10px 14px;border-radius:8px;border:1px solid #ddd;text-decoration:none;">
     🔎 View current publications on Google Scholar
   </a>
