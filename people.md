@@ -19,7 +19,7 @@ subtitle: Helbling Lab Researchers
     <div><strong>Cameron Urban</strong><br><span>PhD — Mechanical Engineering</span><br><em>DanioBot</em></div>
   </div>
   <div style="width:180px;text-align:center;">
-    <img src="{{ '/assets/img/headshots/julie_villamil.jpg' | relative_url }}" alt="Julie Villamil" style="width:100%;height:auto;border-radius:6px;">
+    <img src="{{ '/assets/img/headshots/julie_villamil.png' | relative_url }}" alt="Julie Villamil" style="width:100%;height:auto;border-radius:6px;">
     <div><strong>Julie Villamil</strong><br><span>PhD — Electrical & Computer Engineering</span><br><em>Crawler Bot</em></div>
   </div>
   <div style="width:180px;text-align:center;">
