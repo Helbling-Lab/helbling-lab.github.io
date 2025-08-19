@@ -88,8 +88,8 @@ share-links-active:
   vk: false
 
 # How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "helblinglab.com"
+# Uncomment this once we've finalized the Cornell URL
+# url-pretty: "helblinglab.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

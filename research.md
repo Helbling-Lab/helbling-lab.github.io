@@ -48,7 +48,7 @@ title: Research
   <div class="img">
     Image placeholder
     <!-- Uncomment when ready:
-    <img src="{{ '/assets/img/research/daniobot.jpg' | relative_url }}" alt="DanioBot"
+    <img src="{{ '/assets/img/robots/Daniobot.jpg' | relative_url }}" alt="DanioBot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
     -->
   </div>
