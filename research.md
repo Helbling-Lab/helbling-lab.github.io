@@ -46,7 +46,7 @@ title: Research
 <!-- ========== 2. Daniobot (image right) ========== -->
 <div class="project right">
   <div class="img">
-    <img src="{{ '/assets/img/robots/Daniobot.jpg' | relative_url }}" alt="Daniobot"
+    <img src="{{ './assets/img/robots/Daniobot.jpg' | relative_url }}" alt="Daniobot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
   </div>
   <div class="body">
