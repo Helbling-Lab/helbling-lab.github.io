@@ -43,14 +43,14 @@ title: Research
   </div>
 </div>
 
-<!-- ========== 2. DanioBot (image right) ========== -->
+<!-- ========== 2. Daniobot (image right) ========== -->
 <div class="project right">
   <div class="img">
-    <img src="{{ '/assets/img/robots/Daniobot.jpg' | relative_url }}" alt="DanioBot"
+    <img src="{{ '/assets/img/robots/Daniobot.jpg' | relative_url }}" alt="Daniobot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
   </div>
   <div class="body">
-    <h3>DanioBot</h3>
+    <h3>Daniobot</h3>
     <div class="meta">Lead: <strong>Cameron Urban</strong></div>
     <p>A fish-inspired microrobot that maneuvers into tight underwater spaces. Self-contained and powered, &lt; 1&nbsp;g total mass.</p>
   </div>
