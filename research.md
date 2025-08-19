@@ -46,11 +46,8 @@ title: Research
 <!-- ========== 2. DanioBot (image right) ========== -->
 <div class="project right">
   <div class="img">
-    Image placeholder
-    <!-- Uncomment when ready:
     <img src="{{ '/assets/img/robots/Daniobot.jpg' | relative_url }}" alt="DanioBot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
-    -->
   </div>
   <div class="body">
     <h3>DanioBot</h3>
