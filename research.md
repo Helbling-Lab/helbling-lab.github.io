@@ -66,7 +66,7 @@ title: Research
     -->
   </div>
   <div class="body">
-    <h3>Crawler Bot</h3>
+    <h3>COMT</h3>
     <div class="meta">Lead: <strong>Julie Villamil</strong></div>
     <p>A lightweight land-roaming crawler for robust ground locomotion at small scales.</p>
   </div>

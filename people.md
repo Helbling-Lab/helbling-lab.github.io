@@ -20,7 +20,7 @@ subtitle: Helbling Lab's Researchers
   </div>
   <div style="width:180px;text-align:center;">
     <img src="{{ '/assets/img/headshots/julie_villamil.jpg' | relative_url }}" alt="Julie Villamil" style="width:100%;height:auto;border-radius:6px;">
-    <div><strong>Julie Villamil</strong><br><span>Electrical & Computer Engineering</span><br><em>Crawler Bot</em></div>
+    <div><strong>Julie Villamil</strong><br><span>Electrical & Computer Engineering</span><br><em>COMT</em></div>
   </div>
   <div style="width:180px;text-align:center;">
     <img src="{{ '/assets/img/headshots/harry_gao.jpg' | relative_url }}" alt="Harry Gao" style="width:100%;height:auto;border-radius:6px;">
@@ -40,7 +40,7 @@ subtitle: Helbling Lab's Researchers
 <div style="display:flex;flex-wrap:wrap;gap:16px;">
   <div style="width:180px;text-align:center;">
     <img src="{{ '/assets/img/headshots/jack_long.jpg' | relative_url }}" alt="Jack Long" style="width:100%;height:auto;border-radius:6px;">
-    <div><strong>Jack Long</strong><br><span>Mechanical Engineering</span><br><em>Crawler Bot</em></div>
+    <div><strong>Jack Long</strong><br><span>Mechanical Engineering</span><br><em>COMT</em></div>
   </div>
   <div style="width:180px;text-align:center;">
     <img src="{{ '/assets/img/headshots/ethan_zhang.jpg' | relative_url }}" alt="Ethan Zhang" style="width:100%;height:auto;border-radius:6px;">
