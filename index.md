@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Helbling Lab @ Cornell
-subtitle: Insect-inspired microrobotics
+subtitle: Insect-Inspired Microrobotics
 cover-img: ""
 ---
 
