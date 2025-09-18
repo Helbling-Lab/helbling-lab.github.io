@@ -2,13 +2,13 @@
 layout: home
 title: Helbling Lab @ Cornell
 subtitle: Insect-Inspired Microrobotics
-cover-img: ""
+# cover-img: ""
 ---
 
 ## About Us
 
 <p style="text-align: justify;"> 
-    The Helbling Robotics Lab focuses on designing autonomous insect-scale robotic platforms that can perform sustained, intelligent operation in real-world environments. We focus on holistic design founded in both theory and experiments in which we co-design mechanisms, system architecture, and control with the final environment and task in mind. In the group, this work is divided into two main themes: (1) leveraging cm-scale physics to develop effective locomotion strategies at the insect-scale, and (2) overcoming challenges to design and integrate mm-scale perception, power, and control systems.
+    The Helbling Robotics Lab focuses on designing autonomous insect-scale robotic platforms that can perform sustained, intelligent operation in real-world environments. We focus on holistic design founded in both theory and experiments in which we co-design mechanisms, system architecture, and control with the final environment and task in mind. In the group, this work is divided into two main themes: (1) leveraging centimeter-scale physics to develop effective locomotion strategies at the insect-scale, and (2) overcoming challenges to design and integrate millimeter-scale perception, power, and control systems.
 </p>
 
 We are a part of the [Electrical and Computer Engineering Department](https://www.ece.cornell.edu/ece) at [Cornell University](https://cornell.edu/). 

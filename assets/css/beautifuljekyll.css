@@ -35,7 +35,7 @@ h1 {
 }
 h2 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 800;
 }
 h3 {
   font-size: 1.5rem;
@@ -124,7 +124,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: "#B31B1B" }};
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -146,7 +146,8 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  padding-left: 1rem;
+  font-size: 1.5rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -176,8 +177,10 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+  padding-right:1.5rem;
+  padding-left: 0;
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -186,6 +189,7 @@ img {
   line-height: 1.25rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.9375rem;
+  padding-left: 1rem;
 }
 
 .navbar-custom .navbar-brand,
@@ -196,7 +200,7 @@ img {
 
 .navbar-toggler {
   font-size: 1rem;
-  margin: 0.5rem 0;
+  margin: 1rem 0;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
@@ -671,7 +675,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: #000;
+  color: #404040;
   font-weight: 500;
   font-size: 4rem;
 
@@ -732,7 +736,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 9.375rem 0;
+    padding: 7.375rem 0;
   }
   .intro-header .page-heading h1 {
     font-size: 6rem;
