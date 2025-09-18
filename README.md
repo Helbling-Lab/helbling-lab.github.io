@@ -1,5 +1,12 @@
 # Helbling Lab Website
 
+
+
+## How front page looks rn
+
+![frontpage]('/assets/img/ssfp1.jpg'"Front Page ")
+
+
 This is a website for the Helbling Lab at Cornell University. It has three pages:
 ## 1. Home
 ## 2. Research
