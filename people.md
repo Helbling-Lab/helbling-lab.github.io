@@ -26,6 +26,11 @@ subtitle: Helbling Lab's Researchers
     <img src="{{ '/assets/img/headshots/harry_gao.jpg' | relative_url }}" alt="Harry Gao" style="width:100%;height:auto;border-radius:6px;">
     <div><strong>Harry Gao</strong><br><span>Aerospace Engineering</span><br><em>GammaBot</em></div>
   </div>
+
+  <div style="width:180px;text-align:center;">
+    <img src="{{ '/assets/img/headshots/vasilisa.png' | relative_url }}" alt="Vasilisa Ignatova" style="width:100%;height:auto;border-radius:6px;">
+    <div><strong>Vasilisa Ignatova</strong><br><span>Robotics</span><br><em></em></div>
+  </div>
 </div>
 
 ## Master’s Students
@@ -46,4 +51,12 @@ subtitle: Helbling Lab's Researchers
     <img src="{{ '/assets/img/headshots/ethan_zhang.jpg' | relative_url }}" alt="Ethan Zhang" style="width:100%;height:auto;border-radius:6px;">
     <div><strong>Ethan Zhang</strong><br><span>Computer Science</span><br><em>GammaBot</em></div>
   </div>
+
+  <div style="width:180px;text-align:center;">
+    <img src="{{ '/assets/img/headshots/lucca-correia.jpg' | relative_url }}" alt="Lucca Correia" style="width:100%;height:auto;border-radius:6px;">
+    <div><strong>Lucca Correia</strong><br><span>Mechancial Engineering</span><br><em>GammaBot</em></div>
+  </div>
+
+
+  
 </div>
