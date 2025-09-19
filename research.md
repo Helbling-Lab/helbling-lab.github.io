@@ -56,14 +56,13 @@ title: Research
   </div>
 </div>
 
-<!-- ========== 3. Crawler Bot ========== -->
+<!-- ========== 3. COMT ========== -->
 <div class="project left">
   <div class="img">
-    Image placeholder
-    <!-- Uncomment when ready:
-    <img src="{{ '/assets/img/research/crawler_bot.jpg' | relative_url }}" alt="Crawler Bot"
+
+    <img src="{{ '/assets/img/research/COMT.png' | relative_url }}" alt="COMT"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
-    -->
+   
   </div>
   <div class="body">
     <h3>COMT</h3>
