@@ -27,13 +27,39 @@ title: Research
   .project .meta { color:#555; font-size:0.95rem; margin-bottom:6px; }
 </style>
 
+
+
+# Recent Publications 
+
+{% for pub in site.data.pubs %}
+  <div class="publication" style="margin-bottom: 1.5em;">
+    <strong>{{ pub.title }}</strong><br>
+    <span>{{ pub.authors }}</span>
+    {% if pub.venue %}<span> | {{ pub.venue }}</span>{% endif %}
+    {% if pub.year %}<span> ({{ pub.year }})</span>{% endif %}
+    {% if pub.description %}
+      <div style="margin: 0.5em 0; color: #555;">{{ pub.description }}</div>
+    {% endif %}
+    <div>
+      {% if pub.scholar_link %}
+        {% if pub.link %} &nbsp;|&nbsp; {% endif %}
+        <a href="{{ pub.scholar_link }}" target="_blank">Google Scholar</a>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
+
+
+
 <!-- ========== 1. GammaBot ========== -->
+
+<!-- 
 <div class="project left">
   <div class="img">
   coming soon!
     <!-- <img src="{{ '/assets/img/research/gammabot_smaller.jpeg' | relative_url }}" alt="GammaBot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
-    -->
+    
   </div>
   <div class="body">
     <h3>GammaBot</h3>
@@ -42,13 +68,14 @@ title: Research
   </div>
 </div>
 
-<!-- ========== 2. Daniobot (image right) ========== -->
+
+<!-- ========== 2. Daniobot (image right) ========== 
 <div class="project right">
   <div class="img">
 
   coming soon!
     <!-- <img src="{{ './assets/img/research/Daniobot.jpg' | relative_url }}" alt="Daniobot"
-         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> -->
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> 
   </div>
   <div class="body">
     <h3>Daniobot</h3>
@@ -57,18 +84,19 @@ title: Research
   </div>
 </div>
 
-<!-- ========== 3. COMT ========== -->
+<!-- ========== 3. COMT ========== 
 <div class="project left">
   <div class="img">
   coming soon!
 <!-- 
     <img src="{{ '/assets/img/research/COMT.png' | relative_url }}" alt="COMT"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
-    -->
+    
   </div>
   <div class="body">
     <h3>COMT</h3>
     <div class="meta">Lead: <strong>Julie Villamil</strong></div>
     <p>A lightweight land-roaming crawler for robust ground locomotion at small scales.</p>
   </div>
-</div>
+</div> 
+-->
