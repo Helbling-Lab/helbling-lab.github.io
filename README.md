@@ -4,7 +4,7 @@
 
 ## How front page looks rn
 
-![frontpage](/assets/img/ssfp1.png "Front Page ")
+![frontpage](/assets/img/ssfp2.png "Front Page ")
 
 
 This is a website for the Helbling Lab at Cornell University. It has three pages:
