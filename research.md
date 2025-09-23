@@ -29,7 +29,7 @@ title: Research
 
 
 
-<!-- # Recent Publications
+ # Recent Publications
 
 {% for pub in site.data.pubs %}
   <div class="publication" style="margin-bottom: 1.5em;">
@@ -47,18 +47,18 @@ title: Research
       {% endif %}
     </div>
   </div>
-{% endfor %} -->
+{% endfor %} 
 
 
 
-<!-- ========== 1. GammaBot ========== -->
+<!-- ========== 1. GammaBot ========== 
 
 
 <div class="project left">
   <div class="img">
   coming soon!
     <!-- <img src="{{ '/assets/img/research/gammabot_smaller.jpeg' | relative_url }}" alt="GammaBot"
-         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> -->
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> 
     
   </div>
   <div class="body">
@@ -69,13 +69,13 @@ title: Research
 </div>
 
 
-<!-- ========== 2. Daniobot (image right) ========== -->
+<!-- ========== 2. Daniobot (image right) ========== 
 <div class="project right">
   <div class="img">
 
   coming soon!
     <!-- <img src="{{ './assets/img/research/Daniobot.jpg' | relative_url }}" alt="Daniobot"
-         style="width:100%;height:100%;object-fit:cover;border-radius:8px;">  -->
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;">  
   </div>
   <div class="body">
     <h3>Daniobot</h3>
@@ -84,13 +84,13 @@ title: Research
   </div>
 </div>
 
-<!-- ========== 3. COMT ========== -->
+<!-- ========== 3. COMT ========== 
 <div class="project left">
   <div class="img">
   coming soon!
 <!-- 
     <img src="{{ '/assets/img/research/COMT.png' | relative_url }}" alt="COMT"
-         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> -->
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> 
     
   </div>
   <div class="body">
@@ -99,3 +99,4 @@ title: Research
     <p>A lightweight land-roaming crawler for robust ground locomotion at small scales.</p>
   </div>
 </div> 
+-->
