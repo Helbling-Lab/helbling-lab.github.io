@@ -56,8 +56,8 @@ title: Research
 
 <div class="project left">
   <div class="img">
-  coming soon!
-     <img src="{{ '/assets/img/research/gammabot_smaller.jpeg' | relative_url }}" alt="GammaBot"
+  
+  <img src="{{ '/assets/img/research/gammabot_smaller.jpeg' | relative_url }}" alt="GammaBot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;"> 
     
   </div>
@@ -73,9 +73,9 @@ title: Research
 <div class="project right">
   <div class="img">
 
-  coming soon!
-     <img src="{{ './assets/img/research/Daniobot.jpg' | relative_url }}" alt="Daniobot"
+   <img src="{{ './assets/img/research/Daniobot.jpg' | relative_url }}" alt="Daniobot"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">  
+  
   </div>
   <div class="body">
     <h3>Daniobot</h3>
@@ -87,15 +87,14 @@ title: Research
 <!-- ========== 3. COMT ========== -->
 <div class="project left">
   <div class="img">
-  coming soon!
 
- <img src="{{ './assets/img/research/COMT.jpg' | relative_url }}" alt="Daniobot"
+ <img src="{{ './assets/img/research/COMT.png' | relative_url }}" alt="COMT"
          style="width:100%;height:100%;object-fit:cover;border-radius:8px;">  
      
   </div>
   <div class="body">
     <h3>COMT</h3>
     <div class="meta">Lead: <strong>Julie Villamil</strong></div>
-    <p>A lightweight terrestrial crawler for ground locomotion at small scales.</p>
+    <p>A tetherless 2 g terrestrial crawler for ground locomotion at small scales.</p>
   </div>
 </div> 
